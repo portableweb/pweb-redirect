@@ -1,0 +1,19 @@
+{
+  "name": "pweb",
+  "version": "0.1.0",
+  "description": "Installs the PortableWeb CLI. Alias for @portableweb/cli.",
+  "bin": {
+    "pweb": "bin/pweb.js",
+    "portableweb": "bin/pweb.js"
+  },
+  "dependencies": {
+    "@portableweb/cli": "^0.1.0"
+  },
+  "keywords": ["portableweb", "pweb", "cli"],
+  "author": "Omprakash Selvaraj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portableweb/pweb-redirect.git"
+  }
+}
